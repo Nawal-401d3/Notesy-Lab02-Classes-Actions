@@ -1,7 +1,7 @@
 'use strict';
 
 const Input = require('../lib/input.js');
-const Notes = require('../lib/notes');
+const Notes = require('../lib/notes.js');
 const minimist = require('minimist');
 
 const goodInput = ['-a', 'text'];

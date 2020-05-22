@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+
+// Lab01 + Lab02 
 'use strict';
 
 const Input = require('./lib/input.js');

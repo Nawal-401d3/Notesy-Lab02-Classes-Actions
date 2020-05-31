@@ -1,0 +1,31 @@
+{
+  "name": "Notesy-Lab02-Classes-Actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint '**/*.js'",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nawal-401d3/Notesy-Lab02-Classes-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nawal-401d3/Notesy-Lab02-Classes-Actions/issues"
+  },
+  "homepage": "https://github.com/Nawal-401d3/Notesy-Lab02-Classes-Actions#readme",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "jest": "^26.0.1",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.9.15",
+    "notes": "0.0.4"
+  }
+}
